@@ -6,3 +6,12 @@ A new Flutter project.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+##Team
+* Rivelino Junior
+* Weslly
+* Leonardo
+* Julio Bandeira
+* Divino Silva
+* Giquieu
+* Andriel
